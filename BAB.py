@@ -526,8 +526,8 @@ else:
 #------------[ THIS IS FOR METHOD 1 ]--------------#  
 #------------[ THIS IS FOR RANDOM 1 ]--------------#  	     	     
 def ONE():
-    END = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 RuxitSynthetic/1.0 v2627857514001482310 t6315332425969305434 ath259cea6f altpriv cvcv=2 smf=0;]'
-    ua = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 RuxitSynthetic/1.0 v6826853486929081588 t3949877896810383349 ath2653ab72 altpriv cvcv=2 smf=0 svfu=1;]'+END
+    END = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 RuxitSynthetic/1.0 v3628339985 t3917431986252436785 athfa3c3975 altpub cvcv=2 smf=0;]'
+    ua = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 RuxitSynthetic/1.0 v5404698841317281977 t8133651267689257662 ath259cea6f altpriv cvcv=2 smf=0;]'+END
     return ua    
 #------------[ THIS IS FOR METHOD 2 ]--------------#    
 #------------[ THIS IS FOR RANDOM 2 ]--------------#  	        
@@ -837,9 +837,9 @@ def login_lagi334():
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'max-age=0',
-    # 'cookie': 'sb=eQr4ZS6tdJqYWFWEAr54VeXe; vpd=v1%3B729x360x2; ps_n=0; ps_l=0; datr=oREOZmcRqTp_QQgtH6mxmeoC; locale=en_GB; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712416447; m_pixel_ratio=2; wd=360x729; fr=0puU1xwHurgQuVkCS.AWUKfD2XOV_m8nk8qp7P0dOxTSQ.Bl-Ap5..AAA.0.0.BmEYnK.AWV3IP4AU3M',
+    # 'cookie': 'sb=eQr4ZS6tdJqYWFWEAr54VeXe; vpd=v1%3B729x360x2; ps_n=0; ps_l=0; datr=oREOZmcRqTp_QQgtH6mxmeoC; locale=en_GB; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712505394; m_pixel_ratio=2; wd=360x729; fr=0puU1xwHurgQuVkCS.AWVAa6ANOINYRQEdO_G3a1LcDM8.Bl-Ap5..AAA.0.0.BmEsJS.AWXNkllzqFA',
     'dpr': '2',
-    'referer': 'https://m.facebook.com/?stype=lo&deoia=1&jlou=AfckL7xX_o2cohBsI2_jANWl24bYq80yXY5ToYyRCaueFWOM8gewDk3Wnchsyx2xYPv8qkBtLHP21kR14MXhkYCCIG4eBDUSmPOUFJcYx_NT6g&smuh=42414&lh=Ac8rPiQN43XZWaafiEg&wtsid=rdr_0C1TdwZFHeCqPAsYg&_rdr',
+    'referer': 'https://m.facebook.com/?stype=lo&deoia=1&jlou=AffFyQjano2uzi11snlsd8ZYydXC0gdC6WRv6BRhD6po72IuEPp1CR3qMzc_njKvqKHxY8nrpZ97OulygBXJsizuzmfrSuK0XWZvhZEItiXZfg&smuh=42414&lh=Ac9CQfsrV7dfbXlaoC8&wtsid=rdr_0T5jlARiznysmtTq4&_rdr',
     'sec-ch-prefers-color-scheme': 'light',
     'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
     'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.2"',
@@ -851,6 +851,7 @@ def login_lagi334():
     'sec-fetch-mode': 'navigate',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
+    'service-worker-navigation-preload': '{"k":"rev,1012598296;locale,en_GB;cohort,BP:DEFAULT;branch,trunk;dpr,1;features,;u,61552406963720;","a":"1712427874","t":31536000,"n":"1KqH6k2x","v":"2458","p":4,"r":1012598296,"o":"h2","y":"wblt"}',
     'upgrade-insecure-requests': '1',
     'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
     'viewport-width': '980',
